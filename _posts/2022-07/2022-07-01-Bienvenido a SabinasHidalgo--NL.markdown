@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¡Bienvenido a SabinasHidalgo.NL!"
+title:  "¡Bienvenido a SabinasHidalgo--NL!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
