@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¡Bienvenido a SabinasHidalgo--NL!"
+title:  "¡Bienvenido a SabinasHidalgo.NL!"
 author: hector
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
