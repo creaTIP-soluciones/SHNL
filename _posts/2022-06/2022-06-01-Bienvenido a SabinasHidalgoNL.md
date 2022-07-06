@@ -3,7 +3,7 @@ layout: post
 title:  "¡Bienvenido a SabinasHidalgo.NL!"
 author: hector
 categories: [ Jekyll, tutorial ]
-image: mapa-sh.png
+image: /mapa-sh.png
 tags: [sticky]
 ---
 
