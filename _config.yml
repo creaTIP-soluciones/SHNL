@@ -19,8 +19,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    justHector:
-      name:           Hector S
+    Hector:
+      name:           justHector
       site:           https://justhector.github.io
       #avatar:        
       #bio:           
