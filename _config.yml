@@ -21,12 +21,12 @@ plugins:
   
 authors:
     hector:
-      name:           justHector
-      site:           https://justhector.github.io
-      avatar:        /assets/images/mh-author.png
+      name:         justHector
+      site:         https://justhector.github.io
+      avatar:       assets/images/mh-author.png
       #bio:           
       #email:         
-      twitter:        https://twitter.com/_justHector
+      twitter:      https://twitter.com/_justHector
 
  
 # Defaults
@@ -38,7 +38,7 @@ defaults:
     values:
       layout: post
       author: hector
-      avatar: /assets/images/mh-author.png
+      avatar: assets/images/mh-author.png
       
   # all pages
   - scope:
