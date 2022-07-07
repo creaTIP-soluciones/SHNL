@@ -3,7 +3,7 @@ layout: post
 title:  "¡Bienvenido a SabinasHidalgo.NL!"
 author: hector
 categories: [ Enterate ]
-image: /assets/images/SHNL/mapa-sh.png
+image: assets/images/SHNL/mapa-sh.png
 tags: [sticky]
 ---
 
