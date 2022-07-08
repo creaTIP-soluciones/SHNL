@@ -23,10 +23,18 @@ authors:
     hector:
       name:         justHector
       site:         https://justhector.github.io
-      avatar:       assets/images/mh-author.png
+      avatar:       assets/images/SHNL/mh-author.png
       #bio:           
       #email:         
       twitter:      https://twitter.com/_justHector
+
+    sabino:
+      name:         Sabino
+      site:         https://sabinashidalgo.nl/
+      avatar:       assets/images/SHNL/Sabino-265×265.png
+      #bio:           
+      #email:         
+      #twitter:      
 
  
 # Defaults
@@ -37,8 +45,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: hector
-      avatar: assets/images/mh-author.png
+      author: sabino
+      avatar: assets/images/SHNL/Sabino-265×265.png
       
   # all pages
   - scope:
