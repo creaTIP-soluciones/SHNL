@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Almorzar en SHNL"
 author: jane
 categories: [ Gastronomia ]
 image: assets/images/1.jpg
