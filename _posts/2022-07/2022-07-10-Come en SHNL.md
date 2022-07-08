@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Almorzar en SHNL"
+title:  "Comer en SHNL"
 author: sabino
 categories: [ Gastronomia ]
 image: assets/images/1.jpg
