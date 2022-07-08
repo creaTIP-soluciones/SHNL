@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Almorzar en SHNL"
-author: jane
+author: sabino
 categories: [ Gastronomia ]
 image: assets/images/1.jpg
 tags: [featured]
