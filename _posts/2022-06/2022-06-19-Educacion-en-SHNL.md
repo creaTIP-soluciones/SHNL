@@ -3,7 +3,7 @@ layout: post
 title:  "La Educación en SHNL"
 author: sabino
 categories: [ Turistear ]
-image: assets/images/17.jpg
+image: assets/images/13.jpg
 tags: [featured]
 ---
 En Sabinas Hidalgo NL tienes la opción de estudiar desde lo básico hasta la universidad...

@@ -3,7 +3,7 @@ layout: post
 title:  "Las Iglesias en SHNL"
 author: sabino
 categories: [ Turistear ]
-image: assets/images/17.jpg
+image: assets/images/16.jpg
 ---
 Hay varias iglesias, capillas, y templos en Sabinas Hidalgo NL 
 

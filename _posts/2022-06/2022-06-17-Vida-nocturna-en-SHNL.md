@@ -3,7 +3,7 @@ layout: post
 title:  "La Vida Nocturna en SHNL"
 author: sabino
 categories: [ Turistear ]
-image: assets/images/17.jpg
+image: assets/images/14.jpg
 tags: [featured]
 ---
 Si lo que quieres es desvelarte, en Sabinas Hidalgo NL hay varios lugares donde lo puedes hacer...

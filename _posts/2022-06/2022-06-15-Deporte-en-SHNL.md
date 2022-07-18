@@ -3,7 +3,7 @@ layout: post
 title:  "El Deporte en SHNL"
 author: sabino
 categories: [ Turistear ]
-image: assets/images/17.jpg
+image: assets/images/15.jpg
 tags: [featured]
 ---
 El deporte es algo que se puede practicar en muchos lugares en Sabinas Hidalgo NL ...
