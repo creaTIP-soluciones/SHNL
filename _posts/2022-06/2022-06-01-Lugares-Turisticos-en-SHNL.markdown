@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lugares Turísticos en SHNL"
+author: sabino
 categories: [ Turistear ]
 image: assets/images/demo1.jpg
 ---
