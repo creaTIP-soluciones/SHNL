@@ -15,6 +15,9 @@ permalink: /:title/
 # Google Analytics
 google_analytics: G-195GF5PNE8
 
+# Google Adsense
+#google_adsense: ((directamente en adsense.html))
+
 # Plugins
 plugins: 
   - jekyll-feed
