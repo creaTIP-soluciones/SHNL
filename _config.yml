@@ -12,6 +12,9 @@ baseurl: '/'
 include: ["_pages"]
 permalink: /:title/
 
+# Google Analytics
+google_analytics: G-195GF5PNE8
+
 # Plugins
 plugins: 
   - jekyll-feed
