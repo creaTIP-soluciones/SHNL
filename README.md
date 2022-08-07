@@ -1,10 +1,15 @@
 # SabinasHidalgo.NL
 
-Éste es un proyecto de [justHector](https://twitter.com/_justHector) para [PiiDOmx](http://www.piido.mx/)
+Éste es un proyecto de [justHector](https://twitter.com/_justHector) para [SabinasHidalgo.NL](https://sabinashidalgo.nl/)
 
 ### Copyright
 
 Copyright (C) 2022 justHector
 
-Jekyll Theme - Mundana : designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license.
+Jekyll Theme - Affiliates : designed and developed by [wowthemesnet](https://www.wowthemes.net), *free* under MIT license.
+
+
+
+
+
 
